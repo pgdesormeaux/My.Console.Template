@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/template",
+  "author": "Philippe Gros-Desormeaux",
+  "classifications": ["Console", ".NET Core"],
+  "identity": "My.Console.Template",
+  "name": "My console template",
+  "shortName": "myconsoletemplate",
+  "sourceName": "My.Console.Template",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "preferNameDirectory": true
+}
